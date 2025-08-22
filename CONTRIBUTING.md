@@ -10,7 +10,7 @@ This document outlines the guidelines for contributing, reporting issues, and su
 
 ### Reporting Issues
 
-If you find a bug or want to request a new feature, please check the [Issues](https://github.com/yourusername/vextapay-virtual-card/issues) tab to see if it has already been reported. If not, open a new issue with a clear and descriptive title, and provide as much detail as possible.
+If you find a bug or want to request a new feature, please check the [Issues](https://github.com/vextapay/vextapay-virtual-card/issues) tab to see if it has already been reported. If not, open a new issue with a clear and descriptive title, and provide as much detail as possible.
 
 ### Submitting Pull Requests
 
